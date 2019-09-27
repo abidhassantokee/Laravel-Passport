@@ -16,6 +16,7 @@ class AdminUserSeeder extends Seeder
             'id' => 1,
             'name' => 'John Doe',
             'email' => 'john@doe.com',
+            'password' => 'john1234',
             'is_admin' => 1
         ]);
     }
